@@ -15,3 +15,4 @@ I learn a lot of stuff related to data science skills. This bootcamo
 - Essential pyton for Data Analyst
 - Dashbboard
  
+You can find me on Linkedin
